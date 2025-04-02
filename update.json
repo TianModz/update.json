@@ -1,8 +1,8 @@
 {
-  "Tian_update": [
+  "records": [
     {
       "version": "Wa TianModzDev V1.20.0",
-      "code": 120,
+      "code": 110,
       "url": "https://bit.ly/TianModzDev",
       "changelog": "Fix Bugs"
     }
