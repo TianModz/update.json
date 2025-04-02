@@ -1,9 +1,10 @@
 {
-  "asura_update": [
+  "Tian_update": [
     {
- "version":"WhatsApp V1",
- "description":"Pembaruan sudah tersedia dengan versi yang terbaru 2.24.25.77, stabil base playstore, jangan lewatkan untuk memperbarui WhatsApp V2",
-"download":"https://t.me/OrdinaryModder01"
-}
+      "version": "Wa TianModzDev V1.20.0",
+      "code": 110,
+      "url": "https://bit.ly/TianModzDev",
+      "changelog": "Fix Bugs"
+    }
   ]
 }
