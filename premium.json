@@ -1,1 +1,17 @@
 
+{
+  "PREMIUM": [
+    {
+      "NUMBER": "TianModzDev",
+      "USER": "6281234567890",
+      "EXPIRYTIME": "2025-05-01T23:59:59Z",
+      "GPA": "4.0"
+    },
+    {
+      "NUMBER": "TianGantenk",
+      "USER": "6289876543210",
+      "EXPIRYTIME": "2025-06-01T23:59:59Z",
+      "GPA": "3.7"
+    }
+  ]
+}
